@@ -5,4 +5,12 @@ permalink: /cars/
 ---
 
 
-![Alt text for broken image link](/assets/images/hot-wheels.jpg)
+![Hot Wheels](/assets/images/hot-wheels.jpg)
+
+
+
+
+
+
+
+

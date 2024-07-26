@@ -6,7 +6,10 @@ permalink: /about/
 
 
 
-![Alt text for broken image link](/assets/images/parents.jpg)
+![Parents](/assets/images/parents.jpg)
 
 
-![Alt text for broken image link](/assets/images/mohawk-warrior.jpg)
+![On A Roll](/assets/images/on-a-roll.jpg)
+
+
+![Mohawk Warrioe](/assets/images/mohawk-warrior.jpg)
