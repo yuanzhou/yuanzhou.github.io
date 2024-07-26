@@ -6,10 +6,12 @@ permalink: /movies/
 
 - John Wick
 - First Blood
+- Hell Dogs
 - The Fable
 - Equalizer
 - Fast & Furious
-- Batman The Dark Knight Trilogy
+- The Dark Knight Trilogy
+- The Batman
 - Mad Max
 - Lost Bullet
 - Jason Bourne

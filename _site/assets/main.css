@@ -646,4 +646,14 @@ table td {
   color: #099;
 }
 
+@font-face {
+  font-family: "Antique Olive Nord Italic";
+  src: url("https://db.onlinewebfonts.com/t/f323892ea5283141dbbbec176c9e3ee7.eot");
+  src: url("https://db.onlinewebfonts.com/t/f323892ea5283141dbbbec176c9e3ee7.eot?#iefix") format("embedded-opentype"), url("https://db.onlinewebfonts.com/t/f323892ea5283141dbbbec176c9e3ee7.woff2") format("woff2"), url("https://db.onlinewebfonts.com/t/f323892ea5283141dbbbec176c9e3ee7.woff") format("woff"), url("https://db.onlinewebfonts.com/t/f323892ea5283141dbbbec176c9e3ee7.ttf") format("truetype"), url("https://db.onlinewebfonts.com/t/f323892ea5283141dbbbec176c9e3ee7.svg#Antique Olive Nord Italic") format("svg");
+}
+.site-title {
+  font-family: "Antique Olive Nord Italic";
+  font-weight: bold;
+}
+
 /*# sourceMappingURL=main.css.map */
