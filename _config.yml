@@ -22,7 +22,7 @@ title: Fast-n-Furious
 #author: GitHub User
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I live my life a quarter mile at a time. Nothing else matters: not the mortgage, not the store, not my team and all their bullshit. For those ten seconds or less, I’m free.
+  I don't have friends, I have family.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

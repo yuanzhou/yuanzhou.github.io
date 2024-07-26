@@ -1,9 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Arts
+permalink: /arts/
 ---
 
+
+![Jeep JL 392](/assets/images/jeep392.jpg)
 
 
 ![Parents](/assets/images/parents.jpg)
