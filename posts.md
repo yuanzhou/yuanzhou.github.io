@@ -5,10 +5,7 @@ permalink: /posts/
 ---
 
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{post.url}}">{{post.title}}</a> [{{post.date}}]
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+[{{post.title}}]({{post.url}}) *[{{post.date | date: "%m/%d/%Y %H:%M"}}]*
+{% endfor %}
+
