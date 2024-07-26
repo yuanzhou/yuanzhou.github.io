@@ -16,4 +16,12 @@ permalink: /movies/
 - Lost Bullet
 - Jason Bourne
 - Repo Man
+- Shot Caller
+- Transporter
+- Death Race
+- Polar
+- James Bond
+- Taken
+- Brave Heart
+- Galdiator
 
