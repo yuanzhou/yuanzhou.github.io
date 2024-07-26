@@ -112,6 +112,7 @@ permalink: /movies/
 ## Standalone
 
 - Repo Man (1984)
+- Pulp Fiction (1994)
 - Braveheart (1995)
 - Galdiator (2000)
 - The Man from Nowhere (2010)
