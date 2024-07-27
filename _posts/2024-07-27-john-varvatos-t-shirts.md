@@ -17,3 +17,5 @@ Once a little kid in the Child Care center asked me what's on my shirt, he didn'
 ![John Varvatos T-Shirt](/assets/images/john-varvatos-4.jpg)
 
 ![John Varvatos T-Shirt](/assets/images/john-varvatos-5.jpg)
+
+![John Varvatos T-Shirt](/assets/images/john-varvatos-6.jpg)
