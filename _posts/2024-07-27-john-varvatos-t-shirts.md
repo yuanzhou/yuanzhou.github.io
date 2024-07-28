@@ -8,14 +8,6 @@ categories: lifestyle
 
 Once a little kid in the Child Care center asked me what's on my shirt, he didn't really understand the skull graphic and why I like it. And I didn't know how to answer. Later when I talked to one of the teachers there, she told me her answer: "That's a skull, it protects your brain."
 
-![John Varvatos T-Shirt](/assets/images/john-varvatos-1.jpg)
 
-![John Varvatos T-Shirt](/assets/images/john-varvatos-2.jpg)
+{% include gallery.html folder="assets/images/john-varvatos" size-css="three-per-row" %}
 
-![John Varvatos T-Shirt](/assets/images/john-varvatos-3.jpg)
-
-![John Varvatos T-Shirt](/assets/images/john-varvatos-4.jpg)
-
-![John Varvatos T-Shirt](/assets/images/john-varvatos-5.jpg)
-
-![John Varvatos T-Shirt](/assets/images/john-varvatos-6.jpg)

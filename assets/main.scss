@@ -8,14 +8,58 @@
     font-family: "Antique Olive Nord Italic";
     src: url("https://db.onlinewebfonts.com/t/f323892ea5283141dbbbec176c9e3ee7.eot");
     src: url("https://db.onlinewebfonts.com/t/f323892ea5283141dbbbec176c9e3ee7.eot?#iefix")format("embedded-opentype"),
-    url("https://db.onlinewebfonts.com/t/f323892ea5283141dbbbec176c9e3ee7.woff2")format("woff2"),
-    url("https://db.onlinewebfonts.com/t/f323892ea5283141dbbbec176c9e3ee7.woff")format("woff"),
-    url("https://db.onlinewebfonts.com/t/f323892ea5283141dbbbec176c9e3ee7.ttf")format("truetype"),
-    url("https://db.onlinewebfonts.com/t/f323892ea5283141dbbbec176c9e3ee7.svg#Antique Olive Nord Italic")format("svg");
+        url("https://db.onlinewebfonts.com/t/f323892ea5283141dbbbec176c9e3ee7.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/f323892ea5283141dbbbec176c9e3ee7.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/f323892ea5283141dbbbec176c9e3ee7.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/f323892ea5283141dbbbec176c9e3ee7.svg#Antique Olive Nord Italic")format("svg");
 }
 
 .site-title {
-	font-family: "Antique Olive Nord Italic";
-	font-weight: bold;
-}   
+    font-family: "Antique Olive Nord Italic";
+    font-weight: bold;
+}
 
+.image-gallery {
+    overflow: auto;
+    margin-left: -1% !important;
+}
+
+.image-gallery li.two-per-row {
+    float: left;
+    display: block;
+    margin: 0 0 1% 1%;
+    width: 49%;
+}
+
+.image-gallery li.three-per-row {
+    float: left;
+    display: block;
+    margin: 0 0 1% 1%;
+    width: 32%;
+}
+
+.image-gallery li.four-per-row {
+    float: left;
+    display: block;
+    margin: 0 0 1% 1%;
+    width: 24%;
+}
+
+.image-gallery li a {
+    text-align: center;
+    text-decoration: none !important;
+    color: #777;
+}
+
+.image-gallery li a span {
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    padding: 3px 0;
+}
+
+.image-gallery li a img {
+    width: 100%;
+    display: block;
+}

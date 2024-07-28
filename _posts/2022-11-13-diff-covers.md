@@ -19,14 +19,4 @@ Torqued the 12-point bolts to 25 foot-pound using my harbor freight torque wrenc
 All in all, took me 4 hours. I did not rush and I'm very happy about the end result. Not sure if any mpg difference with using 75W-140. My 392 only gets me 13.5 mpg on average and I can live with it.
 
 
-![Differential](/assets/images/diff-1.jpeg)
-
-![Differential](/assets/images/diff-2.jpeg)
-
-![Differential](/assets/images/diff-3.jpeg)
-
-![Differential](/assets/images/diff-4.jpeg)
-
-![Differential](/assets/images/diff-5.jpeg)
-
-![Differential](/assets/images/diff-6.jpeg)
+{% include gallery.html folder="assets/images/diff-cover" size-css="three-per-row" %}

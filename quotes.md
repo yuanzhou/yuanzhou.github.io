@@ -40,3 +40,7 @@ Progress. Not Perfection.
 John is a man of focus, commitment, sheer will... something you know very little about.  
 *- Viggo Tarasov*
 
+With the past, I have nothing to do; nor with the future. I live now.  
+*- Ralph Waldo Emerson*
+
+
