@@ -8,5 +8,5 @@ categories: lifestyle
 
 I had to trim some pine tree branches to solve part of the squirrel issue. And instead of throwing them away, I got some ideas online and made them into a wall art. Nice place to hang all kinds of little ornaments.
 
-{% include gallery.html folder="assets/images/tree-branch" width="300" height="200" size-css="two-per-row" %}
+{% include gallery.html folder="assets/images/tree-branch" width="300" height="200" size-css="three-per-row" %}
 
