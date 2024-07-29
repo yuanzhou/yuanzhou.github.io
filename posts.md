@@ -5,6 +5,9 @@ permalink: /posts/
 ---
 
 {% for post in site.posts %}
-[{{post.title}}]({{post.url}}) [{{post.date | date: "%m/%d/%Y"}}]
+<h3><a href="{{post.url}}">{{post.title}}</a></h3>
+<small>{{post.date | date: "%m/%d/%Y"}}</small>
+<p>{{ post.excerpt | truncatewords: 40 }}</p>
+<br />
 {% endfor %}
 
