@@ -7,7 +7,7 @@
 {% assign filename = filenameparts | last | replace: file.extname,"" %}
 <li class="{{ include.size-css }}">
 <a href="{{ file.path | relative_url }}" title="{{ filename }}">
-<img src="{{ site.url}}{{ file.path | relative_url }}" alt="{{ filename }}" title="{{ filename }}" />
+<img src="https://images.weserv.nl/?url=https://yuanzhou.github.io/{{ file.path | relative_url }}&w={{ include.width }}&h={{ include.height }}&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" />
 <span><small>{{ filename }}</small></span>
 </a>
 </li>

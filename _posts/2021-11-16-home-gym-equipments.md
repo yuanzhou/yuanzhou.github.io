@@ -9,8 +9,5 @@ categories: lifestyle
 - Firstlaw Fitness Spider Mount for heavy bag
 - Lebert EQualizer Total Body Strengthener XL
 
-![Home Gym Equipments](/assets/images/gym-1.jpg)
+{% include gallery.html folder="assets/images/gym" width="300" height="300" size-css="three-per-row" %}
 
-![Home Gym Equipments](/assets/images/gym-2.jpg)
-
-![Home Gym Equipments](/assets/images/gym-3.jpg)
