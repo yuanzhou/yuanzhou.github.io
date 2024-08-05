@@ -119,6 +119,7 @@ permalink: /movies/
 - The Man from Nowhere (2010)
 - Django Unchained (2012)
 - New World (2013)
+- The Man from U.N.C.L.E. (2015)
 - Shot Caller (2017)
 - Ash Is Purest White (2018)
 - Polar (2019)

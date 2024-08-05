@@ -3,6 +3,7 @@ layout: post
 title:  My John Varvatos Skull T-Shirts
 date:   2024-07-27 12:08:07 -0400
 categories: lifestyle
+tags: [lifestyle, skull]
 ---
 
 
