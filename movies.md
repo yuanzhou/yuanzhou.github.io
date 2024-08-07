@@ -4,7 +4,7 @@ title: Movies
 permalink: /movies/
 ---
 
-
+Movie is not just a form of entertainment, it's one of the greatest forms of artistic expression. I especially love action/ganster/crime movies. I watch old ones, new ones, and rewatch some. These movies give me excitements and get me emotionally invested.
 ## Series
 
 ***Fast & Furious***
@@ -123,6 +123,7 @@ permalink: /movies/
 - Shot Caller (2017)
 - Ash Is Purest White (2018)
 - Polar (2019)
+- The Irishman (2019)
 - Nobody (2021)
 - Hell Dogs (2022)
 
